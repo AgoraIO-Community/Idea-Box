@@ -14,7 +14,7 @@
 “灵感宝盒”是以开源协作的方式维护在 GitHub 仓库上：
 
 1. 如果你有关于 RTE 领域的任何新的灵感或想法、尚未满足的场景化问题或需求、或待解决的产品需求或功能需求、希望大家一起共建的产品/方案：
-    * 欢迎在issues发起讨论，与大家交流：[https://github.com/AgoraIO-Community/Idea-Box/issues](https://github.com/AgoraIO-Community/Idea-Box/issues)。对于大家比较关注的 issues，我们会及时 Merge 到[灵感宝盒”图谱](https://www.nglab.io/ideas)。请按照 issues 模版提交下面字段：
+    * 欢迎在 [Issues](https://github.com/AgoraIO-Community/Idea-Box/issues/new?assignees=kylezhang&labels=%E7%81%B5%E6%84%9F&template=custom.md&title=%E3%80%90%E8%BF%99%E6%98%AF%E6%A0%87%E9%A2%98%E5%91%BD%E5%90%8D%E7%9A%84%E6%8F%90%E7%A4%BA%E8%AF%B7%E5%85%A8%E9%83%A8%E5%88%A0%E9%99%A4%E3%80%91%EF%BC%8C%E4%BB%A5%E8%87%AA%E5%B7%B1%E6%83%B3%E6%B3%95%2F%E6%96%B9%E6%A1%88%2F%E4%BA%A7%E5%93%81%2F%E5%8A%9F%E8%83%BD%E7%9A%84%E5%85%B7%E4%BD%93%E5%90%8D%E7%A7%B0%E5%91%BD%E5%90%8D%E6%AD%A4issue%E6%A0%87%E9%A2%98%EF%BC%8C%E5%A6%82%EF%BC%9A%E3%80%90xxx%E7%81%B5%E6%84%9F%E3%80%91) 发起讨论，与大家交流。对于大家比较关注的 [Issues](https://github.com/AgoraIO-Community/Idea-Box/issues)，我们会及时 Merge 到[灵感宝盒”图谱](https://www.nglab.io/ideas)。请按照 Issues 模版提交下面字段：
         - `想法/方案/产品名称`
         - `所属行业`
         - `使用场景及场景描述`
