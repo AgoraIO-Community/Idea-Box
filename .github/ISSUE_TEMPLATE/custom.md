@@ -1,7 +1,7 @@
 ---
-name: Idea Box Template
+name: 灵感宝盒 Issue 模版
 about: '这里是“灵感宝盒”提交想法的模板。'
-title: '请以想法/方案/产品/功能的具体名称命名此issue标题'
+title: '请以想法/方案/产品/功能的具体名称命名此issue标题，如：【xxx灵感】'
 labels: '灵感'
 assignees: 'kylezhang'
 
