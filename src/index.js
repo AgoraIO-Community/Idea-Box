@@ -25,12 +25,12 @@ readXlsxFile(json_file_path, { schema }).then(({ rows, errors }) => {
 
     let l1_keys_JSON = _.map(rows, function (v, k) {
       return {
-        "value": Math.random() * 100,
+        "value": Math.floor(Math.random() * 10000),
         "name": k,
         "path": k,
         "children": _.map(v, function (vv, kk) {
           return {
-            "value": Math.random() * 100,
+            "value": Math.floor(Math.random() * 10000),
             "name": vv.c2,
             "path": `${k}/${vv.c2}`,
           }
