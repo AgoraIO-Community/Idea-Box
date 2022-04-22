@@ -1,0 +1,24 @@
+{
+  "name": "test-tmp",
+  "version": "1.0.0",
+  "description": "## 数据",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylezhang/test-tmp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylezhang/test-tmp/issues"
+  },
+  "homepage": "https://github.com/kylezhang/test-tmp#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "read-excel-file": "^5.2.28"
+  }
+}
