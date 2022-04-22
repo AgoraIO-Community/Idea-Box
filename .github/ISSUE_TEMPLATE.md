@@ -6,17 +6,17 @@ labels: task
 assignees: kylezhang
 ---
 
-## 想法/方案/产品名称：
+## 想法/方案/产品名称
 <!-- 请填写想法/方案/产品名称，填写之前可在【[`main.md`这个文件](https://github.com/AgoraIO-Community/Idea-Box/blob/main/data/r.json)】查找是否已存在此条目。 -->
 
 
 
-## 所属行业：
+## 所属行业
 <!-- 可参考【[`main.md`这个文件](https://github.com/AgoraIO-Community/Idea-Box/blob/main/data/r.json)】，或提交新的行业。 -->
 
 
 
-## 使用场景及场景描述：
+## 使用场景及场景描述
 <!-- 可参考【[`main.md`这个文件](https://github.com/AgoraIO-Community/Idea-Box/blob/main/data/r.json)】，或提交新的场景，并对场景做详细补充和描述。 -->
 
 
