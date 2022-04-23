@@ -7,7 +7,7 @@
 
     “灵感宝盒”图谱会随着项目的运营逐步更新迭代，希望在图谱中可以早日见到你的贡献！
 
-![灵感宝盒](/data/idea-box-img.png)
+[![灵感宝盒](/data/idea-box-img.png)](https://agoraio-community.github.io/Idea-Box/)
 
 # **如何参与贡献，提交灵感**
 
