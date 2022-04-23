@@ -56,7 +56,7 @@
                     },
                     tooltip: {
                         formatter: function (info) {
-                            var value = info.value;
+                            // var value = info.value;
                             var treePathInfo = info.treePathInfo;
                             var treePath = [];
                             for (var i = 1; i < treePathInfo.length; i++) {
@@ -65,8 +65,9 @@
                             return [
                                 '<div class="tooltip-title">' +
                                 formatUtil.encodeHTML(treePath.join('/')) +
-                                '</div>',
-                                '灵感宝盒: ' + formatUtil.addCommas(value) + ' KB'
+                                '</div>'
+                                // ,
+                                // '灵感宝盒: ' + formatUtil.addCommas(value) + ' KB'
                             ].join('');
                         }
                     },
