@@ -23,7 +23,7 @@
 2. 如果你想补充或更新“灵感宝盒”图谱，提交自己的产品/方案、实时互动场景领域中已有的产品/方案，新的实时互动场景、或新的产品/方案：
 * 欢迎直接提交PR，补充更新到图谱中来，具体操作步骤：
     * fork 此仓库到自己的 GitHub 下；
-    * 在[`main.md`这个文件](https://github.com/AgoraIO-Community/Idea-Box/blob/main/data/r.json)添加新的内容，内容格式：`想法/方案/产品名称`、`所属行业`、`使用场景`、`需求描述`，如有相关链接，也可以带上；
+    * 在[`main.md`这个文件](https://github.com/AgoraIO-Community/Idea-Box/blob/main/data/main.md)添加新的内容，内容格式：`想法/方案/产品名称`、`所属行业`、`使用场景`、`需求描述`，如有相关链接，也可以带上；
     * 提交 Pull Request 到当前仓库。
 
 # **关于RTE NG-Lab 计划**
