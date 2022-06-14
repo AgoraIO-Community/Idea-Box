@@ -14,20 +14,22 @@ about: "该 main.md 用于记录每个人 Pull Requset 的内容。请参考已�
 |教育|超级小班课|[Agora Flat 开源教室](https://flat.whiteboard.agora.io) |
 |教育|超级小班课|[灵动课堂](https://www.agora.io/cn/agora-flexible-classroom)|
 |教育|双师课堂（Hybrid Learning）| |
-|教育|AI互动课| |
-|教育|在线自习室| |
-|教育|在线陪读| [Agora Flat 开源教室](https://flat.whiteboard.agora.io) |
-|教育|云监考（Online Proctoring）| |
+|教育|AI互动课| [Agora Flat 开源教室](https://flat.whiteboard.agora.io)|
+|教育|在线自习室|[flaget虚拟在线自习室](https://www.flaget.cn/) |
+|教育|在线自习室|[踢米(Timing)]([https://www.flaget.cn/](http://www.huiian.com/)) |
+|教育|在线陪读| [360 AI 网课助手](https://www.agora.io/cn/marketplace/360ai-assistant) |
+|教育|云监考（Online Proctoring）| [全美测评优巡](https://www.agora.io/cn/marketplace/aitestgo)|
 |教育|XR（VR/AR/MR）教学| |
 |教育|留学生学业辅导| |
 |教育|游学咨询| |
 |教育|海外预科| |
 |教育|思维启蒙| |
 |教育|阅读表达| |
-|教育|乐器陪练| |
+|教育|乐器陪练| [VIP陪练-乐器陪练平台](https://apps.apple.com/cn/app/id1174747377)|
 |教育|在线美术课| [Agora Flat 开源教室](https://flat.whiteboard.agora.io) |
 |教育|在线声乐课| [Agora Flat 开源教室](https://flat.whiteboard.agora.io) |
 |教育|在线编程课| [Agora Flat 开源教室](https://flat.whiteboard.agora.io) |
+|教育|在线编程课| [少儿在线编程童程在线](https://www.61it.cn/) |
 |教育|在线书法课| |
 |教育|在线科学实验课| |
 |教育|在线体育教学| |
@@ -42,41 +44,45 @@ about: "该 main.md 用于记录每个人 Pull Requset 的内容。请参考已�
 |教育|电子班牌| |
 |教育|职教大班课| |
 |教育|面试辅导课| |
-|教育|智能家教台灯| |
-|教育|智能作业笔| |
+|教育|智能家教台灯|[大力智能学习灯](https://www.dali.com.cn/products) |
+|教育|智能作业笔| [闳宸科技智能笔](https://www.hongchentech.com/#/Pen)|
+|教育|智能作业笔| [凝趣科技智能笔](https://www.eningqu.com/Q2pen.html)|
 |教育|学生平板| |
-|泛娱乐|1v1 语音| |
-|泛娱乐|1v1 视频| |
-|泛娱乐|语聊房（Chatroom）| |
-|泛娱乐|互动播客（LiveCast）| |
-|泛娱乐|语音电台| |
+|泛娱乐|1v1 语音|[声网语音通话 API] (https://www.agora.io/cn/voicecall)|
+|泛娱乐|1v1 视频|[声网视频通话 API] (https://www.agora.io/cn/videocall) |
+|泛娱乐|语聊房（Chatroom）|[声网语音通话 API] (https://www.agora.io/cn/voicecall) |
+|泛娱乐|互动播客（LiveCast）|[声网语音通话 API] (https://www.agora.io/cn/voicecall) |
+|泛娱乐|语音电台| [声网语音通话 API] (https://www.agora.io/cn/voicecall)|
 |泛娱乐|在线K歌房（Online karaoke）|[在线 K 歌房场](https://github.com/AgoraIO-Usecase/Online-KTV) |
 |泛娱乐|一起听音乐| |
+|泛娱乐|一起创作音乐| [一起创作音乐flat]（https://flat.io/）|
 |泛娱乐|一起学习| |
 |泛娱乐|一起健身（Wellness）| |
 |泛娱乐|一起冥想| |
 |泛娱乐|云拜佛| |
 |泛娱乐|实时合唱| |
 |泛娱乐|pia戏| |
-|泛娱乐|视频相亲（Dating）| |
-|泛娱乐|视频群聊（Group Video）| |
-|泛娱乐|一起看电影（Watch Party）| |
+|泛娱乐|视频相亲（Dating）|[世纪佳缘] (https://www.jiayuan.com/live/)|
+|泛娱乐|视频群聊（Group Video）|[声网视频通话 API] (https://www.agora.io/cn/videocall)  |
+|泛娱乐|一起看电影（Watch Party）|[微光]（http://www.vlightv.com/） |
+|泛娱乐|一起看电影（Watch Party）|[窝窝]（https://www.wewave.com.cn/） |
 |泛娱乐|一起看比赛（Fan Engagement）| |
-|泛娱乐|VR社交| |
-|泛娱乐|游戏语音（In-Game Voice）| |
+|泛娱乐|VR社交|[Horizon Worlds](https://www.oculus.com/horizon-worlds/) |
+|泛娱乐|游戏语音（In-Game Voice）| [声网语音通话 API] (https://www.agora.io/cn/voicecall)|
 |泛娱乐|游戏社交（Social Gaming）| |
-|泛娱乐|VR/AR游戏| |
-|泛娱乐|小游戏语音| |
-|泛娱乐|太空杀| |
-|泛娱乐|狼人杀| |
-|泛娱乐|剧本杀| |
-|泛娱乐|线上棋牌室| |
-|泛娱乐|你画我猜| |
-|泛娱乐|你说我猜| |
+|泛娱乐|VR/AR游戏|[Beat Saber](https://www.oculus.com/experiences/quest/2448060205267927) |
+|泛娱乐|小游戏语音|[声网语音通话 API] (https://www.agora.io/cn/voicecall) |
+|泛娱乐|太空杀|[太空杀]]（http://www.snsslmm.com/）|
+|泛娱乐|狼人杀|[狼人杀](https://langrensha.163.com/)|
+|泛娱乐|剧本杀| [Sud 互动游戏平台]（https://www.agora.io/cn/marketplace/sud）|
+|泛娱乐|线上棋牌室|[Sud 互动游戏平台]（https://www.agora.io/cn/marketplace/sud） |
+|泛娱乐|你画我猜|[Sud 互动游戏平台]（https://www.agora.io/cn/marketplace/sud）|
+|泛娱乐|你说我猜|[Sud 互动游戏平台]（https://www.agora.io/cn/marketplace/sud）|
 |泛娱乐|一站到底/直播答题（Trivial）| |
-|泛娱乐|云游戏（Cloud Gaming）| |
-|泛娱乐|直播间互动游戏| |
-|泛娱乐|Decentralized Gaming（区块链游戏）| |
+|泛娱乐|你说我猜|[Sud 互动游戏平台]（[Sud 互动游戏平台](https://www.agora.io/cn/marketplace/sud)） |
+|泛娱乐|云游戏（Cloud Gaming）| [腾讯先锋]（https://gamer.qq.com/）|
+|泛娱乐|直播间互动游戏| [Sud 互动游戏平台]（https://www.agora.io/cn/marketplace/sud）|
+|泛娱乐|Decentralized Gaming（区块链游戏）|[Nine Chronicles](https://nine-chronicles.com/)|
 |泛娱乐|直播拍卖（Live Auction）| |
 |泛娱乐|一起购物| |
 |泛娱乐|产地直播| |
@@ -99,7 +105,7 @@ about: "该 main.md 用于记录每个人 Pull Requset 的内容。请参考已�
 |泛娱乐|Broadcast Media & News（媒体及新闻广播）| |
 |泛娱乐|Music Services（云音乐服务）| |
 |泛娱乐|Virtual Master Control Console（云导播台）| |
-|泛娱乐|虚拟偶像演唱会| |
+|泛娱乐|虚拟偶像演唱会|[AvatarX 智能虚拟人平台(https://www.faceunity.com/avatarx.html)|
 |泛娱乐|云综艺| |
 |泛娱乐|Bingo（宾果游戏）| |
 |IoT|智能手表（Smart Watch）| |
