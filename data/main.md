@@ -79,9 +79,9 @@ about: "该 main.md 用于记录每个人 Pull Requset 的内容。请参考已�
 |泛娱乐|你画我猜|[Sud 互动游戏平台](https://www.agora.io/cn/marketplace/sud)|
 |泛娱乐|你说我猜|[Sud 互动游戏平台](https://www.agora.io/cn/marketplace/sud)|
 |泛娱乐|一站到底/直播答题（Trivial）| |
-|泛娱乐|你说我猜|[Sud 互动游戏平台]（[Sud 互动游戏平台](https://www.agora.io/cn/marketplace/sud)） |
+|泛娱乐|你说我猜|[Sud 互动游戏平台](https://www.agora.io/cn/marketplace/sud) |
 |泛娱乐|云游戏（Cloud Gaming）| [腾讯先锋]（https://gamer.qq.com/）|
-|泛娱乐|直播间互动游戏| [Sud 互动游戏平台](https://www.agora.io/cn/marketplace/sud)|
+|泛娱乐|直播间互动游戏|[Sud 互动游戏平台](https://www.agora.io/cn/marketplace/sud)|
 |泛娱乐|Decentralized Gaming（区块链游戏）|[Nine Chronicles](https://nine-chronicles.com/)|
 |泛娱乐|直播拍卖（Live Auction）| |
 |泛娱乐|一起购物| |
