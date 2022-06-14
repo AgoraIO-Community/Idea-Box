@@ -48,31 +48,31 @@ about: "该 main.md 用于记录每个人 Pull Requset 的内容。请参考已�
 |教育|智能作业笔| [闳宸科技智能笔](https://www.hongchentech.com/#/Pen)|
 |教育|智能作业笔| [凝趣科技智能笔](https://www.eningqu.com/Q2pen.html)|
 |教育|学生平板| |
-|泛娱乐|1v1 语音|[声网语音通话 API]（https://www.agora.io/cn/voicecall)|
-|泛娱乐|1v1 视频|[声网视频通话 API]（https://www.agora.io/cn/videocall）|
-|泛娱乐|语聊房（Chatroom）|[声网语音通话 API] (https://www.agora.io/cn/voicecall) |
-|泛娱乐|互动播客（LiveCast）|[声网语音通话 API] (https://www.agora.io/cn/voicecall) |
-|泛娱乐|语音电台| [声网语音通话 API] (https://www.agora.io/cn/voicecall)|
+|泛娱乐|1v1 语音|[声网语音通话 API](https://www.agora.io/cn/voicecall)|
+|泛娱乐|1v1 视频|[声网语音通话 API](https://www.agora.io/cn/voicecall)|
+|泛娱乐|语聊房（Chatroom）|[声网语音通话 API](https://www.agora.io/cn/voicecall)|
+|泛娱乐|互动播客（LiveCast）|[声网语音通话 API](https://www.agora.io/cn/voicecall) |
+|泛娱乐|语音电台| [声网语音通话 API](https://www.agora.io/cn/voicecall)|
 |泛娱乐|在线K歌房（Online karaoke）|[在线 K 歌房场](https://github.com/AgoraIO-Usecase/Online-KTV) |
 |泛娱乐|一起听音乐| |
-|泛娱乐|一起创作音乐| [一起创作音乐flat]（https://flat.io/）|
+|泛娱乐|一起创作音乐| [一起创作音乐flat](https://flat.io/)|
 |泛娱乐|一起学习| |
 |泛娱乐|一起健身（Wellness）| |
 |泛娱乐|一起冥想| |
 |泛娱乐|云拜佛| |
 |泛娱乐|实时合唱| |
 |泛娱乐|pia戏| |
-|泛娱乐|视频相亲（Dating）|[世纪佳缘] (https://www.jiayuan.com/live/)|
-|泛娱乐|视频群聊（Group Video）|[声网视频通话 API] (https://www.agora.io/cn/videocall)  |
-|泛娱乐|一起看电影（Watch Party）|[微光]（http://www.vlightv.com/） |
-|泛娱乐|一起看电影（Watch Party）|[窝窝]（https://www.wewave.com.cn/） |
+|泛娱乐|视频相亲（Dating）|[世纪佳缘](https://www.jiayuan.com/live/)|
+|泛娱乐|视频群聊（Group Video）|[声网视频通话 API](https://www.agora.io/cn/videocall)  |
+|泛娱乐|一起看电影（Watch Party）|[微光](http://www.vlightv.com/） |
+|泛娱乐|一起看电影（Watch Party）|[窝窝](https://www.wewave.com.cn/） |
 |泛娱乐|一起看比赛（Fan Engagement）| |
 |泛娱乐|VR社交|[Horizon Worlds](https://www.oculus.com/horizon-worlds/) |
-|泛娱乐|游戏语音（In-Game Voice）| [声网语音通话 API] (https://www.agora.io/cn/voicecall)|
+|泛娱乐|游戏语音（In-Game Voice）| [声网语音通话 API](https://www.agora.io/cn/voicecall)|
 |泛娱乐|游戏社交（Social Gaming）| |
 |泛娱乐|VR/AR游戏|[Beat Saber](https://www.oculus.com/experiences/quest/2448060205267927) |
-|泛娱乐|小游戏语音|[声网语音通话 API] (https://www.agora.io/cn/voicecall) |
-|泛娱乐|太空杀|[太空杀]]（http://www.snsslmm.com/）|
+|泛娱乐|小游戏语音|[声网语音通话 API](https://www.agora.io/cn/voicecall) |
+|泛娱乐|太空杀|[太空杀]](http://www.snsslmm.com/）|
 |泛娱乐|狼人杀|[狼人杀](https://langrensha.163.com/)|
 |泛娱乐|剧本杀| [Sud 互动游戏平台](https://www.agora.io/cn/marketplace/sud)|
 |泛娱乐|线上棋牌室|[Sud 互动游戏平台](https://www.agora.io/cn/marketplace/sud)|
@@ -105,7 +105,7 @@ about: "该 main.md 用于记录每个人 Pull Requset 的内容。请参考已�
 |泛娱乐|Broadcast Media & News（媒体及新闻广播）| |
 |泛娱乐|Music Services（云音乐服务）| |
 |泛娱乐|Virtual Master Control Console（云导播台）| |
-|泛娱乐|虚拟偶像演唱会|[AvatarX 智能虚拟人平台(https://www.faceunity.com/avatarx.html)|
+|泛娱乐|虚拟偶像演唱会|[AvatarX 智能虚拟人平台](https://www.faceunity.com/avatarx.html)|
 |泛娱乐|云综艺| |
 |泛娱乐|Bingo（宾果游戏）| |
 |IoT|智能手表（Smart Watch）| |
