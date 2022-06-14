@@ -23,7 +23,7 @@
 
 # **关于 RTE NG-Lab 计划**
 
-`RTE NG-Lab` 是由声网及 RTE 开发者社区共同发起的、为关注 RTE（实时互动）领域的人群提供交流和帮助的长期计划。我们希望更多人参与进来，一起探索创新，共建新技术、新产品、新场景，一起提升实时互动体验，推进和加速实时互动领域工程落地，共建下一代 RTE技术生态。RTE NG-Lab 计划包含`灵感宝盒（Idea Box）`、`代码实验室(Code Lab)`、`独立开发者孵化器（NGLab Incubator）`三个部分。
+`RTE NG-Lab` 是由声网及 RTE 开发者社区共同发起的、为关注 RTE（实时互动）领域的人群提供交流和帮助的长期计划。我们希望更多人参与进来，一起探索创新，共建新技术、新产品、新场景，一起提升实时互动体验，推进和加速实时互动领域工程落地，共建下一代 RTE 技术生态。RTE NG-Lab 计划包含`灵感宝盒（Idea Box）`、`代码实验室(Code Lab)`、`独立开发者孵化器（NGLab Incubator）`三个部分。
 
 * 欢迎访问 `RTE NG-Lab 计划`官网：[https://www.nglab.io/](https://www.nglab.io/)
 * 欢迎报名参与 `RTE NG-Lab 计划`：[https://www.wenjuan.com/s/UZBZJvUwXu/#](https://www.wenjuan.com/s/UZBZJvUwXu/#)
