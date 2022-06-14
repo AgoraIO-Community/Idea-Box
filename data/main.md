@@ -16,7 +16,7 @@ about: "该 main.md 用于记录每个人 Pull Requset 的内容。请参考已�
 |教育|双师课堂（Hybrid Learning）| |
 |教育|AI互动课| [Agora Flat 开源教室](https://flat.whiteboard.agora.io)|
 |教育|在线自习室|[flaget虚拟在线自习室](https://www.flaget.cn/) |
-|教育|在线自习室|[踢米(Timing)]([https://www.flaget.cn/](http://www.huiian.com/)) |
+|教育|在线自习室|[踢米(Timing)](http://www.huiian.com/)|
 |教育|在线陪读| [360 AI 网课助手](https://www.agora.io/cn/marketplace/360ai-assistant) |
 |教育|云监考（Online Proctoring）| [全美测评优巡](https://www.agora.io/cn/marketplace/aitestgo)|
 |教育|XR（VR/AR/MR）教学| |
@@ -48,8 +48,8 @@ about: "该 main.md 用于记录每个人 Pull Requset 的内容。请参考已�
 |教育|智能作业笔| [闳宸科技智能笔](https://www.hongchentech.com/#/Pen)|
 |教育|智能作业笔| [凝趣科技智能笔](https://www.eningqu.com/Q2pen.html)|
 |教育|学生平板| |
-|泛娱乐|1v1 语音|[声网语音通话 API] (https://www.agora.io/cn/voicecall)|
-|泛娱乐|1v1 视频|[声网视频通话 API] (https://www.agora.io/cn/videocall) |
+|泛娱乐|1v1 语音|[声网语音通话 API]（https://www.agora.io/cn/voicecall)|
+|泛娱乐|1v1 视频|[声网视频通话 API]（https://www.agora.io/cn/videocall）|
 |泛娱乐|语聊房（Chatroom）|[声网语音通话 API] (https://www.agora.io/cn/voicecall) |
 |泛娱乐|互动播客（LiveCast）|[声网语音通话 API] (https://www.agora.io/cn/voicecall) |
 |泛娱乐|语音电台| [声网语音通话 API] (https://www.agora.io/cn/voicecall)|
