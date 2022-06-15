@@ -13,7 +13,7 @@ about: "该 main.md 用于记录每个人 Pull Requset 的内容。请参考已�
 |教育|互动大班课|[灵动课堂](https://www.agora.io/cn/agora-flexible-classroom)|
 |教育|超级小班课|[Agora Flat 开源教室](https://flat.whiteboard.agora.io) |
 |教育|超级小班课|[灵动课堂](https://www.agora.io/cn/agora-flexible-classroom)|
-|教育|双师课堂（Hybrid Learning）| |
+|教育|双师课堂（Hybrid Learning）|[伯索云学堂](https://www.agora.io/cn/marketplace/plaso) |
 |教育|AI互动课| [Agora Flat 开源教室](https://flat.whiteboard.agora.io)|
 |教育|在线自习室|[flaget虚拟在线自习室](https://www.flaget.cn/) |
 |教育|在线自习室|[踢米(Timing)](http://www.huiian.com/)|
@@ -54,7 +54,7 @@ about: "该 main.md 用于记录每个人 Pull Requset 的内容。请参考已�
 |泛娱乐|互动播客（LiveCast）|[声网语音通话 API](https://www.agora.io/cn/voicecall) |
 |泛娱乐|语音电台| [声网语音通话 API](https://www.agora.io/cn/voicecall)|
 |泛娱乐|在线K歌房（Online karaoke）|[在线 K 歌房场](https://github.com/AgoraIO-Usecase/Online-KTV) |
-|泛娱乐|一起听音乐| |
+|泛娱乐|一起听音乐| [一起听歌吧](http://music.alang.run/#/)|
 |泛娱乐|一起创作音乐| [一起创作音乐flat](https://flat.io/)|
 |泛娱乐|一起学习| |
 |泛娱乐|一起健身（Wellness）| |
@@ -64,15 +64,15 @@ about: "该 main.md 用于记录每个人 Pull Requset 的内容。请参考已�
 |泛娱乐|pia戏| |
 |泛娱乐|视频相亲（Dating）|[世纪佳缘](https://www.jiayuan.com/live/)|
 |泛娱乐|视频群聊（Group Video）|[声网视频通话 API](https://www.agora.io/cn/videocall)  |
-|泛娱乐|一起看电影（Watch Party）|[微光](http://www.vlightv.com/） |
-|泛娱乐|一起看电影（Watch Party）|[窝窝](https://www.wewave.com.cn/） |
+|泛娱乐|一起看电影（Watch Party）|[微光](http://www.vlightv.com/)|
+|泛娱乐|一起看电影（Watch Party）|[窝窝](https://www.wewave.com.cn/)|
 |泛娱乐|一起看比赛（Fan Engagement）| |
 |泛娱乐|VR社交|[Horizon Worlds](https://www.oculus.com/horizon-worlds/) |
 |泛娱乐|游戏语音（In-Game Voice）| [声网语音通话 API](https://www.agora.io/cn/voicecall)|
 |泛娱乐|游戏社交（Social Gaming）| |
 |泛娱乐|VR/AR游戏|[Beat Saber](https://www.oculus.com/experiences/quest/2448060205267927) |
 |泛娱乐|小游戏语音|[声网语音通话 API](https://www.agora.io/cn/voicecall) |
-|泛娱乐|太空杀|[太空杀]](http://www.snsslmm.com/）|
+|泛娱乐|太空杀|[太空杀](http://www.snsslmm.com/）|
 |泛娱乐|狼人杀|[狼人杀](https://langrensha.163.com/)|
 |泛娱乐|剧本杀| [Sud 互动游戏平台](https://www.agora.io/cn/marketplace/sud)|
 |泛娱乐|线上棋牌室|[Sud 互动游戏平台](https://www.agora.io/cn/marketplace/sud)|
@@ -80,7 +80,7 @@ about: "该 main.md 用于记录每个人 Pull Requset 的内容。请参考已�
 |泛娱乐|你说我猜|[Sud 互动游戏平台](https://www.agora.io/cn/marketplace/sud)|
 |泛娱乐|一站到底/直播答题（Trivial）| |
 |泛娱乐|你说我猜|[Sud 互动游戏平台](https://www.agora.io/cn/marketplace/sud) |
-|泛娱乐|云游戏（Cloud Gaming）| [腾讯先锋]（https://gamer.qq.com/）|
+|泛娱乐|云游戏（Cloud Gaming）| [腾讯先锋](https://gamer.qq.com/)|
 |泛娱乐|直播间互动游戏|[Sud 互动游戏平台](https://www.agora.io/cn/marketplace/sud)|
 |泛娱乐|Decentralized Gaming（区块链游戏）|[Nine Chronicles](https://nine-chronicles.com/)|
 |泛娱乐|直播拍卖（Live Auction）| |
@@ -101,7 +101,7 @@ about: "该 main.md 用于记录每个人 Pull Requset 的内容。请参考已�
 |泛娱乐|OTT视频平台| |
 |泛娱乐|体育远程加油| |
 |泛娱乐|Sports Talkshow（体育脱口秀）| |
-|泛娱乐|虚拟演唱会（Virtual Concerts）| |
+|泛娱乐|虚拟演唱会（Virtual Concerts）| [AvatarX 智能虚拟人平台](https://www.faceunity.com/avatarx.html)|
 |泛娱乐|Broadcast Media & News（媒体及新闻广播）| |
 |泛娱乐|Music Services（云音乐服务）| |
 |泛娱乐|Virtual Master Control Console（云导播台）| |
