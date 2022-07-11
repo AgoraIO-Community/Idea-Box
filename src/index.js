@@ -21,19 +21,37 @@ const schema = {
 
 readXlsxFile(json_file_path, { schema }).then(({ rows, errors }) => {
   try {
-    rows = _.groupBy(rows, 'c1');
+    let g1 = _.groupBy(rows, 'c1');
+    let l1_keys_JSON = _.map(g1, function (v, k) {
 
-    let l1_keys_JSON = _.map(rows, function (v, k) {
+      let g2 = _.groupBy(v, 'c2');
+
       return {
-        "value": Math.floor(Math.random() * 10000),
+        "value": 300,
         "name": k,
-        "path": k,
-        "children": _.map(v, function (vv, kk) {
-          return {
-            "value": Math.floor(Math.random() * 10000),
-            "name": vv.c2,
-            "path": `${k}/${vv.c2}`,
+
+        "children": _.map(g2, function (vv, kk) {
+          let r = {
+            "value": 200,
+            "name": kk,
           }
+
+          let g3 = _.groupBy(vv, 'c3');
+
+          if (_.findKey(g3) != 'undefined') {
+            r.children =  _.map(g3, function (vvv, kkk) {
+              let hyperlink = kkk.split("｜");
+              
+              return {
+                "value": 100,
+                "name": hyperlink[0],
+                "link": hyperlink[1]
+              }
+            })
+          }
+          
+          return r
+        
         })
       }
     })

@@ -1,1 +1,1215 @@
-[{"value":7169,"name":"教育","path":"教育","children":[{"value":1904,"name":"1v1 教学","path":"教育/1v1 教学"},{"value":8203,"name":"1v1 教学","path":"教育/1v1 教学"},{"value":7810,"name":"1对多小班课","path":"教育/1对多小班课"},{"value":2320,"name":"1对多小班课","path":"教育/1对多小班课"},{"value":1022,"name":"互动大班课","path":"教育/互动大班课"},{"value":6357,"name":"互动大班课","path":"教育/互动大班课"},{"value":2877,"name":"超级小班课","path":"教育/超级小班课"},{"value":7966,"name":"超级小班课","path":"教育/超级小班课"},{"value":6161,"name":"双师课堂（Hybrid Learning）","path":"教育/双师课堂（Hybrid Learning）"},{"value":1776,"name":"AI互动课","path":"教育/AI互动课"},{"value":9076,"name":"在线自习室","path":"教育/在线自习室"},{"value":2815,"name":"在线自习室","path":"教育/在线自习室"},{"value":4381,"name":"在线陪读","path":"教育/在线陪读"},{"value":6083,"name":"云监考（Online Proctoring）","path":"教育/云监考（Online Proctoring）"},{"value":2712,"name":"XR（VR/AR/MR）教学","path":"教育/XR（VR/AR/MR）教学"},{"value":9310,"name":"留学生学业辅导","path":"教育/留学生学业辅导"},{"value":8599,"name":"游学咨询","path":"教育/游学咨询"},{"value":6373,"name":"海外预科","path":"教育/海外预科"},{"value":9699,"name":"思维启蒙","path":"教育/思维启蒙"},{"value":7082,"name":"阅读表达","path":"教育/阅读表达"},{"value":406,"name":"乐器陪练","path":"教育/乐器陪练"},{"value":9246,"name":"在线美术课","path":"教育/在线美术课"},{"value":4245,"name":"在线声乐课","path":"教育/在线声乐课"},{"value":6548,"name":"在线编程课","path":"教育/在线编程课"},{"value":3154,"name":"在线编程课","path":"教育/在线编程课"},{"value":6095,"name":"在线书法课","path":"教育/在线书法课"},{"value":7103,"name":"在线科学实验课","path":"教育/在线科学实验课"},{"value":8972,"name":"在线体育教学","path":"教育/在线体育教学"},{"value":5365,"name":"在线棋类教学","path":"教育/在线棋类教学"},{"value":8681,"name":"财商教育","path":"教育/财商教育"},{"value":1279,"name":"专递课堂","path":"教育/专递课堂"},{"value":4950,"name":"名师课堂","path":"教育/名师课堂"},{"value":117,"name":"电子书包","path":"教育/电子书包"},{"value":6153,"name":"线上托管","path":"教育/线上托管"},{"value":4956,"name":"名校网络课堂","path":"教育/名校网络课堂"},{"value":9,"name":"互动录播","path":"教育/互动录播"},{"value":2107,"name":"电子班牌","path":"教育/电子班牌"},{"value":4355,"name":"职教大班课","path":"教育/职教大班课"},{"value":2298,"name":"面试辅导课","path":"教育/面试辅导课"},{"value":8789,"name":"智能家教台灯","path":"教育/智能家教台灯"},{"value":6455,"name":"智能作业笔","path":"教育/智能作业笔"},{"value":2611,"name":"智能作业笔","path":"教育/智能作业笔"},{"value":382,"name":"学生平板","path":"教育/学生平板"}]},{"value":2157,"name":"泛娱乐","path":"泛娱乐","children":[{"value":5045,"name":"1v1 语音","path":"泛娱乐/1v1 语音"},{"value":5586,"name":"1v1 视频","path":"泛娱乐/1v1 视频"},{"value":5227,"name":"语聊房（Chatroom）","path":"泛娱乐/语聊房（Chatroom）"},{"value":2529,"name":"互动播客（LiveCast）","path":"泛娱乐/互动播客（LiveCast）"},{"value":2881,"name":"语音电台","path":"泛娱乐/语音电台"},{"value":3396,"name":"在线K歌房（Online karaoke）","path":"泛娱乐/在线K歌房（Online karaoke）"},{"value":3667,"name":"一起听音乐","path":"泛娱乐/一起听音乐"},{"value":2226,"name":"一起创作音乐","path":"泛娱乐/一起创作音乐"},{"value":4255,"name":"一起学习","path":"泛娱乐/一起学习"},{"value":6991,"name":"一起健身（Wellness）","path":"泛娱乐/一起健身（Wellness）"},{"value":5395,"name":"一起冥想","path":"泛娱乐/一起冥想"},{"value":7444,"name":"云拜佛","path":"泛娱乐/云拜佛"},{"value":7527,"name":"实时合唱","path":"泛娱乐/实时合唱"},{"value":155,"name":"pia戏","path":"泛娱乐/pia戏"},{"value":2737,"name":"视频相亲（Dating）","path":"泛娱乐/视频相亲（Dating）"},{"value":1288,"name":"视频群聊（Group Video）","path":"泛娱乐/视频群聊（Group Video）"},{"value":6674,"name":"一起看电影（Watch Party）","path":"泛娱乐/一起看电影（Watch Party）"},{"value":8905,"name":"一起看电影（Watch Party）","path":"泛娱乐/一起看电影（Watch Party）"},{"value":4259,"name":"一起看比赛（Fan Engagement）","path":"泛娱乐/一起看比赛（Fan Engagement）"},{"value":2362,"name":"VR社交","path":"泛娱乐/VR社交"},{"value":5960,"name":"游戏语音（In-Game Voice）","path":"泛娱乐/游戏语音（In-Game Voice）"},{"value":8219,"name":"游戏社交（Social Gaming）","path":"泛娱乐/游戏社交（Social Gaming）"},{"value":8820,"name":"VR/AR游戏","path":"泛娱乐/VR/AR游戏"},{"value":227,"name":"小游戏语音","path":"泛娱乐/小游戏语音"},{"value":8796,"name":"太空杀","path":"泛娱乐/太空杀"},{"value":4288,"name":"狼人杀","path":"泛娱乐/狼人杀"},{"value":649,"name":"剧本杀","path":"泛娱乐/剧本杀"},{"value":4120,"name":"线上棋牌室","path":"泛娱乐/线上棋牌室"},{"value":4073,"name":"你画我猜","path":"泛娱乐/你画我猜"},{"value":5057,"name":"你说我猜","path":"泛娱乐/你说我猜"},{"value":731,"name":"一站到底/直播答题（Trivial）","path":"泛娱乐/一站到底/直播答题（Trivial）"},{"value":7810,"name":"你说我猜","path":"泛娱乐/你说我猜"},{"value":1846,"name":"云游戏（Cloud Gaming）","path":"泛娱乐/云游戏（Cloud Gaming）"},{"value":2628,"name":"直播间互动游戏","path":"泛娱乐/直播间互动游戏"},{"value":3137,"name":"Decentralized Gaming（区块链游戏）","path":"泛娱乐/Decentralized Gaming（区块链游戏）"},{"value":6893,"name":"直播拍卖（Live Auction）","path":"泛娱乐/直播拍卖（Live Auction）"},{"value":2130,"name":"一起购物","path":"泛娱乐/一起购物"},{"value":1352,"name":"产地直播","path":"泛娱乐/产地直播"},{"value":8627,"name":"商家竞卖直播","path":"泛娱乐/商家竞卖直播"},{"value":5843,"name":"主播带货直播（E-Commerce Live Streaming）","path":"泛娱乐/主播带货直播（E-Commerce Live Streaming）"},{"value":5237,"name":"秀场直播","path":"泛娱乐/秀场直播"},{"value":7070,"name":"赛事直播（Sports）","path":"泛娱乐/赛事直播（Sports）"},{"value":8294,"name":"游戏直播（Game Streaming）","path":"泛娱乐/游戏直播（Game Streaming）"},{"value":3857,"name":"电竞直播（eSports）","path":"泛娱乐/电竞直播（eSports）"},{"value":728,"name":"鉴宝直播","path":"泛娱乐/鉴宝直播"},{"value":3116,"name":"虚拟主播","path":"泛娱乐/虚拟主播"},{"value":5375,"name":"PK直播","path":"泛娱乐/PK直播"},{"value":7729,"name":"二次元直播","path":"泛娱乐/二次元直播"},{"value":6046,"name":"云演唱会","path":"泛娱乐/云演唱会"},{"value":7124,"name":"云旅游","path":"泛娱乐/云旅游"},{"value":7957,"name":"OTT视频平台","path":"泛娱乐/OTT视频平台"},{"value":9593,"name":"体育远程加油","path":"泛娱乐/体育远程加油"},{"value":7646,"name":"Sports Talkshow（体育脱口秀）","path":"泛娱乐/Sports Talkshow（体育脱口秀）"},{"value":3663,"name":"虚拟演唱会（Virtual Concerts）","path":"泛娱乐/虚拟演唱会（Virtual Concerts）"},{"value":2139,"name":"Broadcast Media & News（媒体及新闻广播）","path":"泛娱乐/Broadcast Media & News（媒体及新闻广播）"},{"value":3005,"name":"Music Services（云音乐服务）","path":"泛娱乐/Music Services（云音乐服务）"},{"value":429,"name":"Virtual Master Control Console（云导播台）","path":"泛娱乐/Virtual Master Control Console（云导播台）"},{"value":5085,"name":"虚拟偶像演唱会","path":"泛娱乐/虚拟偶像演唱会"},{"value":2155,"name":"云综艺","path":"泛娱乐/云综艺"},{"value":4444,"name":"Bingo（宾果游戏）","path":"泛娱乐/Bingo（宾果游戏）"}]},{"value":4484,"name":"IoT","path":"IoT","children":[{"value":6988,"name":"智能手表（Smart Watch）","path":"IoT/智能手表（Smart Watch）"},{"value":500,"name":"智能头显（Head Mounted Display）","path":"IoT/智能头显（Head Mounted Display）"},{"value":3460,"name":"直播眼镜","path":"IoT/直播眼镜"},{"value":6137,"name":"智能头盔","path":"IoT/智能头盔"},{"value":7258,"name":"智能摄像头（Smart Camera）","path":"IoT/智能摄像头（Smart Camera）"},{"value":6123,"name":"可视门铃","path":"IoT/可视门铃"},{"value":3797,"name":"智能门锁","path":"IoT/智能门锁"},{"value":7176,"name":"楼宇对讲","path":"IoT/楼宇对讲"},{"value":8375,"name":"智能宠物设备","path":"IoT/智能宠物设备"},{"value":585,"name":"智能电视（Smart TV）","path":"IoT/智能电视（Smart TV）"},{"value":3604,"name":"电视盒子","path":"IoT/电视盒子"},{"value":6691,"name":"智能音箱（Smart Speaker）","path":"IoT/智能音箱（Smart Speaker）"},{"value":1713,"name":"健身魔镜（Home Gym Device）","path":"IoT/健身魔镜（Home Gym Device）"},{"value":7759,"name":"扫地机器人","path":"IoT/扫地机器人"},{"value":1167,"name":"可视家电","path":"IoT/可视家电"},{"value":9500,"name":"行车记录仪","path":"IoT/行车记录仪"},{"value":9253,"name":"智能后视镜","path":"IoT/智能后视镜"},{"value":1704,"name":"智能座舱","path":"IoT/智能座舱"},{"value":2409,"name":"智能车机","path":"IoT/智能车机"},{"value":3530,"name":"云车机","path":"IoT/云车机"},{"value":1471,"name":"服务机器人","path":"IoT/服务机器人"},{"value":4183,"name":"工业机器人","path":"IoT/工业机器人"},{"value":2940,"name":"无人机","path":"IoT/无人机"},{"value":9167,"name":"无人车","path":"IoT/无人车"},{"value":357,"name":"云手机","path":"IoT/云手机"},{"value":3604,"name":"采访背包（Portable Transmission Unit ）","path":"IoT/采访背包（Portable Transmission Unit ）"},{"value":4687,"name":"移动执法仪","path":"IoT/移动执法仪"},{"value":7792,"name":"电子学生卡","path":"IoT/电子学生卡"}]},{"value":6700,"name":"金融","path":"金融","children":[{"value":4553,"name":"视频银行客服","path":"金融/视频银行客服"},{"value":601,"name":"理财面签双录","path":"金融/理财面签双录"},{"value":3552,"name":"金融呼叫中心","path":"金融/金融呼叫中心"},{"value":9417,"name":"虚拟营业厅","path":"金融/虚拟营业厅"},{"value":5938,"name":"银行理财直播路演","path":"金融/银行理财直播路演"},{"value":2053,"name":"VTM","path":"金融/VTM"},{"value":5105,"name":"视频车险理赔","path":"金融/视频车险理赔"},{"value":6880,"name":"远程寿险营销","path":"金融/远程寿险营销"},{"value":2254,"name":"远程保险客服","path":"金融/远程保险客服"},{"value":3646,"name":"保险直播","path":"金融/保险直播"},{"value":204,"name":"远程开户","path":"金融/远程开户"},{"value":4807,"name":"券商直播路演","path":"金融/券商直播路演"},{"value":3053,"name":"证券视频课堂","path":"金融/证券视频课堂"},{"value":9785,"name":"远程汽车贷款","path":"金融/远程汽车贷款"},{"value":9049,"name":"远程消费小贷","path":"金融/远程消费小贷"},{"value":6243,"name":"金融直播","path":"金融/金融直播"}]},{"value":6305,"name":"医疗","path":"医疗","children":[{"value":475,"name":"远程问诊（Telehealth）","path":"医疗/远程问诊（Telehealth）"},{"value":8300,"name":"视频急救","path":"医疗/视频急救"},{"value":561,"name":"电子处方","path":"医疗/电子处方"},{"value":6916,"name":"远程会诊（Online Medical Treatment）","path":"医疗/远程会诊（Online Medical Treatment）"},{"value":9059,"name":"互联网医院","path":"医疗/互联网医院"},{"value":491,"name":"医疗硬件","path":"医疗/医疗硬件"},{"value":8635,"name":"医疗直播","path":"医疗/医疗直播"},{"value":8794,"name":"医疗培训","path":"医疗/医疗培训"},{"value":7669,"name":"远程超声","path":"医疗/远程超声"},{"value":5570,"name":"医疗学术会议","path":"医疗/医疗学术会议"},{"value":389,"name":"远程心理咨询（Mental Health）","path":"医疗/远程心理咨询（Mental Health）"},{"value":9007,"name":"远程看护","path":"医疗/远程看护"},{"value":3272,"name":"远程慢病随诊","path":"医疗/远程慢病随诊"},{"value":5199,"name":"医疗机器人","path":"医疗/医疗机器人"},{"value":7197,"name":"医美直播","path":"医疗/医美直播"}]},{"value":5766,"name":"企业协作","path":"企业协作","children":[{"value":5452,"name":"综合协同办公（Enterprise Collaboration）","path":"企业协作/综合协同办公（Enterprise Collaboration）"},{"value":7941,"name":"视频会议（B2B Video Platform）","path":"企业协作/视频会议（B2B Video Platform）"},{"value":2014,"name":"远程培训（Enterprise Training）","path":"企业协作/远程培训（Enterprise Training）"},{"value":9932,"name":"远程招聘（Online Interview）","path":"企业协作/远程招聘（Online Interview）"},{"value":3151,"name":"远程专家指导","path":"企业协作/远程专家指导"},{"value":8729,"name":"远程监工/交付","path":"企业协作/远程监工/交付"},{"value":1842,"name":"智能交互平板","path":"企业协作/智能交互平板"},{"value":7397,"name":"商用TV","path":"企业协作/商用TV"},{"value":7362,"name":"视频会议专用终端","path":"企业协作/视频会议专用终端"},{"value":9912,"name":"AR/VR协作硬件","path":"企业协作/AR/VR协作硬件"},{"value":5660,"name":"机顶盒","path":"企业协作/机顶盒"}]},{"value":9881,"name":"数字政府/智慧城市","path":"数字政府/智慧城市","children":[{"value":9603,"name":"云新闻发布会","path":"数字政府/智慧城市/云新闻发布会"},{"value":7945,"name":"云峰会","path":"数字政府/智慧城市/云峰会"},{"value":6224,"name":"远程会商","path":"数字政府/智慧城市/远程会商"},{"value":6849,"name":"远程党建培训","path":"数字政府/智慧城市/远程党建培训"},{"value":2576,"name":"一网通办","path":"数字政府/智慧城市/一网通办"},{"value":3914,"name":"智能客服","path":"数字政府/智慧城市/智能客服"},{"value":6984,"name":"远程接访","path":"数字政府/智慧城市/远程接访"},{"value":3708,"name":"互联网法庭","path":"数字政府/智慧城市/互联网法庭"},{"value":1157,"name":"远程探视","path":"数字政府/智慧城市/远程探视"},{"value":5366,"name":"远程复议","path":"数字政府/智慧城市/远程复议"},{"value":8623,"name":"可视化应急指挥","path":"数字政府/智慧城市/可视化应急指挥"},{"value":2614,"name":"数字展馆","path":"数字政府/智慧城市/数字展馆"},{"value":6462,"name":"云拍卖","path":"数字政府/智慧城市/云拍卖"},{"value":6059,"name":"一机游","path":"数字政府/智慧城市/一机游"},{"value":5606,"name":"XR演出","path":"数字政府/智慧城市/XR演出"},{"value":4168,"name":"无人仓储","path":"数字政府/智慧城市/无人仓储"},{"value":94,"name":"无人驾驶运输","path":"数字政府/智慧城市/无人驾驶运输"},{"value":5255,"name":"无人机配送","path":"数字政府/智慧城市/无人机配送"},{"value":6043,"name":"水域立体监测","path":"数字政府/智慧城市/水域立体监测"},{"value":449,"name":"远程电力巡检","path":"数字政府/智慧城市/远程电力巡检"},{"value":4679,"name":"无人远程控车","path":"数字政府/智慧城市/无人远程控车"},{"value":6473,"name":"智能冰柜","path":"数字政府/智慧城市/智能冰柜"},{"value":340,"name":"视频健身教学","path":"数字政府/智慧城市/视频健身教学"},{"value":4389,"name":"健身社交","path":"数字政府/智慧城市/健身社交"},{"value":5518,"name":"游戏健身","path":"数字政府/智慧城市/游戏健身"},{"value":3594,"name":"虚拟军演","path":"数字政府/智慧城市/虚拟军演"},{"value":7927,"name":"仿真灾害演习","path":"数字政府/智慧城市/仿真灾害演习"}]},{"value":3771,"name":"更多","path":"更多","children":[{"value":564,"name":"线上活动（Live Events）","path":"更多/线上活动（Live Events）"},{"value":474,"name":"线上研讨会（Webinar）","path":"更多/线上研讨会（Webinar）"},{"value":6417,"name":"虚拟贸易展会（Virtual Trade Show）","path":"更多/虚拟贸易展会（Virtual Trade Show）"},{"value":9447,"name":"Virtual Conference（虚拟会议）","path":"更多/Virtual Conference（虚拟会议）"},{"value":9139,"name":"Hybrid Events（线上线下混合性展会）","path":"更多/Hybrid Events（线上线下混合性展会）"},{"value":7764,"name":"VR带看房","path":"更多/VR带看房"},{"value":6661,"name":"云代驾","path":"更多/云代驾"},{"value":7489,"name":"云钓鱼","path":"更多/云钓鱼"},{"value":3979,"name":"元宇宙（Metaverse）","path":"更多/元宇宙（Metaverse）"},{"value":5620,"name":"元宇宙（Metaverse）","path":"更多/元宇宙（Metaverse）"},{"value":932,"name":"元宇宙（Metaverse）","path":"更多/元宇宙（Metaverse）"},{"value":4892,"name":"元宇宙（Metaverse）","path":"更多/元宇宙（Metaverse）"}]}]
+[
+    {
+        "value": 300,
+        "name": "教育",
+        "children": [
+            {
+                "value": 200,
+                "name": "1v1 教学",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "Agora Flat 开源教室",
+                        "link": "https://flat.whiteboard.agora.io/"
+                    },
+                    {
+                        "value": 100,
+                        "name": "灵动课堂",
+                        "link": "https://www.agora.io/cn/agora-flexible-classroom"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "1对多小班课",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "Agora Flat 开源教室",
+                        "link": "https://flat.whiteboard.agora.io/"
+                    },
+                    {
+                        "value": 100,
+                        "name": "灵动课堂",
+                        "link": "https://www.agora.io/cn/agora-flexible-classroom"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "互动大班课",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "Agora Flat 开源教室",
+                        "link": "https://flat.whiteboard.agora.io/"
+                    },
+                    {
+                        "value": 100,
+                        "name": "灵动课堂",
+                        "link": "https://www.agora.io/cn/agora-flexible-classroom"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "超级小班课",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "Agora Flat 开源教室",
+                        "link": "https://flat.whiteboard.agora.io/"
+                    },
+                    {
+                        "value": 100,
+                        "name": "灵动课堂",
+                        "link": "https://www.agora.io/cn/agora-flexible-classroom"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "双师课堂（Hybrid Learning）",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "伯索云学堂",
+                        "link": "https://www.agora.io/cn/marketplace/plaso"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "AI互动课",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "Agora Flat 开源教室",
+                        "link": "https://flat.whiteboard.agora.io/"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "在线自习室",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "flaget虚拟在线自习室",
+                        "link": "https://www.flaget.cn/"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "在线陪读",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "360 AI 网课助手",
+                        "link": "https://www.agora.io/cn/marketplace/360ai-assistant"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "云监考（Online Proctoring）",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "全美测评优巡",
+                        "link": "https://www.agora.io/cn/marketplace/aitestgo"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "XR（VR/AR/MR）教学"
+            },
+            {
+                "value": 200,
+                "name": "留学生学业辅导"
+            },
+            {
+                "value": 200,
+                "name": "游学咨询"
+            },
+            {
+                "value": 200,
+                "name": "海外预科"
+            },
+            {
+                "value": 200,
+                "name": "思维启蒙"
+            },
+            {
+                "value": 200,
+                "name": "阅读表达"
+            },
+            {
+                "value": 200,
+                "name": "乐器陪练",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "VIP陪练-乐器陪练平台",
+                        "link": "https://apps.apple.com/cn/app/id1174747377"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "在线美术课",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "Agora Flat 开源教室",
+                        "link": "https://flat.whiteboard.agora.io/"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "在线声乐课",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "Agora Flat 开源教室",
+                        "link": "https://flat.whiteboard.agora.io/"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "在线编程课",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "Agora Flat 开源教室",
+                        "link": "https://flat.whiteboard.agora.io/"
+                    },
+                    {
+                        "value": 100,
+                        "name": "少儿在线编程童程在线",
+                        "link": "https://www.61it.cn/"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "在线书法课"
+            },
+            {
+                "value": 200,
+                "name": "在线科学实验课"
+            },
+            {
+                "value": 200,
+                "name": "在线体育教学"
+            },
+            {
+                "value": 200,
+                "name": "在线棋类教学"
+            },
+            {
+                "value": 200,
+                "name": "财商教育"
+            },
+            {
+                "value": 200,
+                "name": "专递课堂"
+            },
+            {
+                "value": 200,
+                "name": "名师课堂"
+            },
+            {
+                "value": 200,
+                "name": "电子书包"
+            },
+            {
+                "value": 200,
+                "name": "线上托管"
+            },
+            {
+                "value": 200,
+                "name": "名校网络课堂"
+            },
+            {
+                "value": 200,
+                "name": "互动录播"
+            },
+            {
+                "value": 200,
+                "name": "电子班牌"
+            },
+            {
+                "value": 200,
+                "name": "职教大班课"
+            },
+            {
+                "value": 200,
+                "name": "面试辅导课"
+            },
+            {
+                "value": 200,
+                "name": "智能家教台灯",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "大力智能学习灯",
+                        "link": "https://www.dali.com.cn/products"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "智能作业笔",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "闳宸科技智能笔",
+                        "link": "https://www.hongchentech.com/#/Pen"
+                    },
+                    {
+                        "value": 100,
+                        "name": "凝趣科技智能笔",
+                        "link": "https://www.eningqu.com/Q2pen.html"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "学生平板"
+            }
+        ]
+    },
+    {
+        "value": 300,
+        "name": "泛娱乐",
+        "children": [
+            {
+                "value": 200,
+                "name": "1v1 语音",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "声网语音通话 API",
+                        "link": "https://www.agora.io/cn/voicecall"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "1v1 视频",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "声网语音通话 API",
+                        "link": "https://www.agora.io/cn/voicecall"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "语聊房（Chatroom）",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "声网语音通话 API",
+                        "link": "https://www.agora.io/cn/voicecall"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "互动播客（LiveCast）",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "声网语音通话 API",
+                        "link": "https://www.agora.io/cn/voicecall"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "语音电台",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "声网语音通话 API",
+                        "link": "https://www.agora.io/cn/voicecall"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "在线K歌房（Online karaoke）",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "在线 K 歌房场",
+                        "link": "https://github.com/AgoraIO-Usecase/Online-KTV"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "一起听音乐",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "一起听歌吧",
+                        "link": "http://music.alang.run/#/"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "一起创作音乐",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "一起创作音乐flat",
+                        "link": "https://flat.io/"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "一起学习"
+            },
+            {
+                "value": 200,
+                "name": "一起健身（Wellness）"
+            },
+            {
+                "value": 200,
+                "name": "一起冥想"
+            },
+            {
+                "value": 200,
+                "name": "云拜佛"
+            },
+            {
+                "value": 200,
+                "name": "实时合唱"
+            },
+            {
+                "value": 200,
+                "name": "pia戏"
+            },
+            {
+                "value": 200,
+                "name": "视频相亲（Dating）",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "世纪佳缘",
+                        "link": "https://www.jiayuan.com/live/"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "视频群聊（Group Video）",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "声网视频通话 API",
+                        "link": "https://www.agora.io/cn/videocall"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "一起看电影（Watch Party）",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "微光",
+                        "link": "http://www.vlightv.com/"
+                    },
+                    {
+                        "value": 100,
+                        "name": "窝窝",
+                        "link": "https://www.wewave.com.cn/"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "一起看比赛（Fan Engagement）"
+            },
+            {
+                "value": 200,
+                "name": "VR社交",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "Horizon Worlds",
+                        "link": "https://www.oculus.com/horizon-worlds/"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "游戏语音（In-Game Voice）",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "声网语音通话 API",
+                        "link": "https://www.agora.io/cn/voicecall"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "游戏社交（Social Gaming）"
+            },
+            {
+                "value": 200,
+                "name": "VR/AR游戏",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "Beat Saber",
+                        "link": "https://www.oculus.com/experiences/quest/2448060205267927"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "小游戏语音",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "声网语音通话 API",
+                        "link": "https://www.agora.io/cn/voicecall"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "太空杀",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "太空杀",
+                        "link": "http://www.snsslmm.com/"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "狼人杀",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "狼人杀",
+                        "link": "https://langrensha.163.com/"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "剧本杀",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "Sud 互动游戏平台",
+                        "link": "https://www.agora.io/cn/marketplace/sud"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "线上棋牌室",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "Sud 互动游戏平台",
+                        "link": "https://www.agora.io/cn/marketplace/sud"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "你画我猜",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "Sud 互动游戏平台",
+                        "link": "https://www.agora.io/cn/marketplace/sud"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "你说我猜",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "Sud 互动游戏平台",
+                        "link": "https://www.agora.io/cn/marketplace/sud"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "一站到底/直播答题（Trivial）"
+            },
+            {
+                "value": 200,
+                "name": "云游戏（Cloud Gaming）",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "腾讯先锋",
+                        "link": "https://gamer.qq.com/"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "直播间互动游戏",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "Sud 互动游戏平台",
+                        "link": "https://www.agora.io/cn/marketplace/sud"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "Decentralized Gaming（区块链游戏）",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "Nine Chronicles",
+                        "link": "https://nine-chronicles.com/"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "直播拍卖（Live Auction）"
+            },
+            {
+                "value": 200,
+                "name": "一起购物"
+            },
+            {
+                "value": 200,
+                "name": "产地直播"
+            },
+            {
+                "value": 200,
+                "name": "商家竞卖直播"
+            },
+            {
+                "value": 200,
+                "name": "主播带货直播（E-Commerce Live Streaming）"
+            },
+            {
+                "value": 200,
+                "name": "秀场直播"
+            },
+            {
+                "value": 200,
+                "name": "赛事直播（Sports）"
+            },
+            {
+                "value": 200,
+                "name": "游戏直播（Game Streaming）"
+            },
+            {
+                "value": 200,
+                "name": "电竞直播（eSports）"
+            },
+            {
+                "value": 200,
+                "name": "鉴宝直播"
+            },
+            {
+                "value": 200,
+                "name": "虚拟主播",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "元直播 MetaLive",
+                        "link": "https://www.agora.io/cn/meta-live"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "PK直播"
+            },
+            {
+                "value": 200,
+                "name": "二次元直播",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "元直播 MetaLive",
+                        "link": "https://www.agora.io/cn/meta-live"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "云演唱会"
+            },
+            {
+                "value": 200,
+                "name": "云旅游"
+            },
+            {
+                "value": 200,
+                "name": "OTT视频平台"
+            },
+            {
+                "value": 200,
+                "name": "体育远程加油"
+            },
+            {
+                "value": 200,
+                "name": "Sports Talkshow（体育脱口秀）"
+            },
+            {
+                "value": 200,
+                "name": "虚拟演唱会（Virtual Concerts）",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "AvatarX 智能虚拟人平台",
+                        "link": "https://www.faceunity.com/avatarx.html"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "Broadcast Media & News（媒体及新闻广播）"
+            },
+            {
+                "value": 200,
+                "name": "Music Services（云音乐服务）"
+            },
+            {
+                "value": 200,
+                "name": "Virtual Master Control Console（云导播台）"
+            },
+            {
+                "value": 200,
+                "name": "虚拟偶像演唱会",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "AvatarX 智能虚拟人平台",
+                        "link": "https://www.faceunity.com/avatarx.html"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "云综艺"
+            },
+            {
+                "value": 200,
+                "name": "Bingo（宾果游戏）"
+            }
+        ]
+    },
+    {
+        "value": 300,
+        "name": "IoT",
+        "children": [
+            {
+                "value": 200,
+                "name": "智能手表（Smart Watch）"
+            },
+            {
+                "value": 200,
+                "name": "智能头显（Head Mounted Display）"
+            },
+            {
+                "value": 200,
+                "name": "直播眼镜"
+            },
+            {
+                "value": 200,
+                "name": "智能头盔"
+            },
+            {
+                "value": 200,
+                "name": "智能摄像头（Smart Camera）"
+            },
+            {
+                "value": 200,
+                "name": "可视门铃"
+            },
+            {
+                "value": 200,
+                "name": "智能门锁"
+            },
+            {
+                "value": 200,
+                "name": "楼宇对讲"
+            },
+            {
+                "value": 200,
+                "name": "智能宠物设备"
+            },
+            {
+                "value": 200,
+                "name": "智能电视（Smart TV）"
+            },
+            {
+                "value": 200,
+                "name": "电视盒子"
+            },
+            {
+                "value": 200,
+                "name": "智能音箱（Smart Speaker）"
+            },
+            {
+                "value": 200,
+                "name": "健身魔镜（Home Gym Device）"
+            },
+            {
+                "value": 200,
+                "name": "扫地机器人"
+            },
+            {
+                "value": 200,
+                "name": "可视家电"
+            },
+            {
+                "value": 200,
+                "name": "行车记录仪"
+            },
+            {
+                "value": 200,
+                "name": "智能后视镜"
+            },
+            {
+                "value": 200,
+                "name": "智能座舱"
+            },
+            {
+                "value": 200,
+                "name": "智能车机"
+            },
+            {
+                "value": 200,
+                "name": "云车机"
+            },
+            {
+                "value": 200,
+                "name": "服务机器人"
+            },
+            {
+                "value": 200,
+                "name": "工业机器人"
+            },
+            {
+                "value": 200,
+                "name": "无人机"
+            },
+            {
+                "value": 200,
+                "name": "无人车"
+            },
+            {
+                "value": 200,
+                "name": "云手机"
+            },
+            {
+                "value": 200,
+                "name": "采访背包（Portable Transmission Unit ）"
+            },
+            {
+                "value": 200,
+                "name": "移动执法仪"
+            },
+            {
+                "value": 200,
+                "name": "电子学生卡"
+            }
+        ]
+    },
+    {
+        "value": 300,
+        "name": "金融",
+        "children": [
+            {
+                "value": 200,
+                "name": "视频银行客服"
+            },
+            {
+                "value": 200,
+                "name": "理财面签双录"
+            },
+            {
+                "value": 200,
+                "name": "金融呼叫中心"
+            },
+            {
+                "value": 200,
+                "name": "虚拟营业厅"
+            },
+            {
+                "value": 200,
+                "name": "银行理财直播路演"
+            },
+            {
+                "value": 200,
+                "name": "VTM"
+            },
+            {
+                "value": 200,
+                "name": "视频车险理赔"
+            },
+            {
+                "value": 200,
+                "name": "远程寿险营销"
+            },
+            {
+                "value": 200,
+                "name": "远程保险客服"
+            },
+            {
+                "value": 200,
+                "name": "保险直播"
+            },
+            {
+                "value": 200,
+                "name": "远程开户"
+            },
+            {
+                "value": 200,
+                "name": "券商直播路演"
+            },
+            {
+                "value": 200,
+                "name": "证券视频课堂"
+            },
+            {
+                "value": 200,
+                "name": "远程汽车贷款"
+            },
+            {
+                "value": 200,
+                "name": "远程消费小贷"
+            },
+            {
+                "value": 200,
+                "name": "金融直播"
+            }
+        ]
+    },
+    {
+        "value": 300,
+        "name": "医疗",
+        "children": [
+            {
+                "value": 200,
+                "name": "远程问诊（Telehealth）"
+            },
+            {
+                "value": 200,
+                "name": "视频急救"
+            },
+            {
+                "value": 200,
+                "name": "电子处方"
+            },
+            {
+                "value": 200,
+                "name": "远程会诊（Online Medical Treatment）"
+            },
+            {
+                "value": 200,
+                "name": "互联网医院"
+            },
+            {
+                "value": 200,
+                "name": "医疗硬件"
+            },
+            {
+                "value": 200,
+                "name": "医疗直播"
+            },
+            {
+                "value": 200,
+                "name": "医疗培训"
+            },
+            {
+                "value": 200,
+                "name": "远程超声"
+            },
+            {
+                "value": 200,
+                "name": "医疗学术会议"
+            },
+            {
+                "value": 200,
+                "name": "远程心理咨询（Mental Health）"
+            },
+            {
+                "value": 200,
+                "name": "远程看护"
+            },
+            {
+                "value": 200,
+                "name": "远程慢病随诊"
+            },
+            {
+                "value": 200,
+                "name": "医疗机器人"
+            },
+            {
+                "value": 200,
+                "name": "医美直播"
+            }
+        ]
+    },
+    {
+        "value": 300,
+        "name": "企业协作",
+        "children": [
+            {
+                "value": 200,
+                "name": "综合协同办公（Enterprise Collaboration）"
+            },
+            {
+                "value": 200,
+                "name": "视频会议（B2B Video Platform）"
+            },
+            {
+                "value": 200,
+                "name": "远程培训（Enterprise Training）"
+            },
+            {
+                "value": 200,
+                "name": "远程招聘（Online Interview）"
+            },
+            {
+                "value": 200,
+                "name": "远程专家指导"
+            },
+            {
+                "value": 200,
+                "name": "远程监工/交付"
+            },
+            {
+                "value": 200,
+                "name": "智能交互平板"
+            },
+            {
+                "value": 200,
+                "name": "商用TV"
+            },
+            {
+                "value": 200,
+                "name": "视频会议专用终端"
+            },
+            {
+                "value": 200,
+                "name": "AR/VR协作硬件"
+            },
+            {
+                "value": 200,
+                "name": "机顶盒"
+            }
+        ]
+    },
+    {
+        "value": 300,
+        "name": "数字政府/智慧城市",
+        "children": [
+            {
+                "value": 200,
+                "name": "云新闻发布会"
+            },
+            {
+                "value": 200,
+                "name": "云峰会"
+            },
+            {
+                "value": 200,
+                "name": "远程会商"
+            },
+            {
+                "value": 200,
+                "name": "远程党建培训"
+            },
+            {
+                "value": 200,
+                "name": "一网通办"
+            },
+            {
+                "value": 200,
+                "name": "智能客服"
+            },
+            {
+                "value": 200,
+                "name": "远程接访"
+            },
+            {
+                "value": 200,
+                "name": "互联网法庭"
+            },
+            {
+                "value": 200,
+                "name": "远程探视"
+            },
+            {
+                "value": 200,
+                "name": "远程复议"
+            },
+            {
+                "value": 200,
+                "name": "可视化应急指挥"
+            },
+            {
+                "value": 200,
+                "name": "数字展馆"
+            },
+            {
+                "value": 200,
+                "name": "云拍卖"
+            },
+            {
+                "value": 200,
+                "name": "一机游"
+            },
+            {
+                "value": 200,
+                "name": "XR演出"
+            },
+            {
+                "value": 200,
+                "name": "无人仓储"
+            },
+            {
+                "value": 200,
+                "name": "无人驾驶运输"
+            },
+            {
+                "value": 200,
+                "name": "无人机配送"
+            },
+            {
+                "value": 200,
+                "name": "水域立体监测"
+            },
+            {
+                "value": 200,
+                "name": "远程电力巡检"
+            },
+            {
+                "value": 200,
+                "name": "无人远程控车"
+            },
+            {
+                "value": 200,
+                "name": "智能冰柜"
+            },
+            {
+                "value": 200,
+                "name": "视频健身教学"
+            },
+            {
+                "value": 200,
+                "name": "健身社交"
+            },
+            {
+                "value": 200,
+                "name": "游戏健身"
+            },
+            {
+                "value": 200,
+                "name": "虚拟军演"
+            },
+            {
+                "value": 200,
+                "name": "仿真灾害演习"
+            }
+        ]
+    },
+    {
+        "value": 300,
+        "name": "更多",
+        "children": [
+            {
+                "value": 200,
+                "name": "线上活动（Live Events）"
+            },
+            {
+                "value": 200,
+                "name": "线上研讨会（Webinar）"
+            },
+            {
+                "value": 200,
+                "name": "虚拟贸易展会（Virtual Trade Show）",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "VS·work 元宇宙引擎",
+                        "link": "https://www.vswork.com/"
+                    }
+                ]
+            },
+            {
+                "value": 200,
+                "name": "Virtual Conference（虚拟会议）"
+            },
+            {
+                "value": 200,
+                "name": "Hybrid Events（线上线下混合性展会）"
+            },
+            {
+                "value": 200,
+                "name": "VR带看房"
+            },
+            {
+                "value": 200,
+                "name": "云代驾"
+            },
+            {
+                "value": 200,
+                "name": "云钓鱼"
+            },
+            {
+                "value": 200,
+                "name": "元宇宙（Metaverse）",
+                "children": [
+                    {
+                        "value": 100,
+                        "name": "元 K 歌 MetaKTV",
+                        "link": "https://www.agora.io/cn/meta-ktv"
+                    },
+                    {
+                        "value": 100,
+                        "name": "元语聊 MetaChat",
+                        "link": "https://www.agora.io/cn/meta-chat"
+                    },
+                    {
+                        "value": 100,
+                        "name": "互动游戏 Meta Interactive Game",
+                        "link": "https://www.agora.io/cn/meta-igame"
+                    },
+                    {
+                        "value": 100,
+                        "name": "元直播 MetaLive",
+                        "link": "https://www.agora.io/cn/meta-live"
+                    }
+                ]
+            }
+        ]
+    }
+]

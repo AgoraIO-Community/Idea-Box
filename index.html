@@ -9,7 +9,7 @@
     <div id="container" style="height: 100%"></div>
 
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@5.3.2/dist/echarts.min.js"></script>
+    <script type="text/javascript" src="./js/echarts.min.js"></script>
 
     <script type="text/javascript">
 
@@ -56,18 +56,20 @@
                     },
                     tooltip: {
                         formatter: function (info) {
-                            // var value = info.value;
                             var treePathInfo = info.treePathInfo;
                             var treePath = [];
+                            let link = info.data.link || "";
+                            let  tlink = link ? `<p><a>快速访问：${info.data.link}</a></p>` : ''
                             for (var i = 1; i < treePathInfo.length; i++) {
                                 treePath.push(treePathInfo[i].name);
+                                link = treePathInfo[i].link || "";
+
                             }
                             return [
                                 '<div class="tooltip-title">' +
-                                formatUtil.encodeHTML(treePath.join('/')) +
+                                formatUtil.encodeHTML(treePath.join('->')) +
+                                tlink + 
                                 '</div>'
-                                // ,
-                                // '灵感宝盒: ' + formatUtil.addCommas(value) + ' KB'
                             ].join('');
                         }
                     },
