@@ -5,10 +5,9 @@
 
 我们在声网 “RTE 万象图谱”的基础上推出了[“灵感宝盒”图谱](https://www.nglab.io/ideas)，对实时互动领域相关的产业、细分场景、产品、功能需求、技术做了进一步收集，你可以在[“灵感宝盒”图谱](https://www.nglab.io/ideas)发现自己的创业灵感，寻找自己的业务解决方案，补充自己发现的有意思的场景、产品、技术帮助其他人，也可以提交自己正在创业的产品或者技术在图谱中进行展示。“灵感宝盒”图谱会随着项目的运营逐步更新迭代，希望在图谱中可以早日见到你的贡献！
 
-[![灵感宝盒图谱](/data/idea-box-img.png)](https://agoraio-community.github.io/Idea-Box/)
+[![灵感宝盒图谱](/data/idea-box-img.png)](https://agoraio-community.github.io/Idea-Box/) 
 
-<p style="text-align: center;"> **点击图片查看灵感宝盒图谱**</p>
-
+<div align="center">点击上图查看灵感宝盒图谱</div>
 
 # **如何参与贡献，提交灵感**
 
