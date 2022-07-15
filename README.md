@@ -7,7 +7,7 @@
 
 [![灵感宝盒图谱](/data/idea-box-img.png)](https://agoraio-community.github.io/Idea-Box/)
 
- **点击图片查看灵感宝盒图谱**
+<p style="text-align: center;"> **点击图片查看灵感宝盒图谱**</p>
 
 
 # **如何参与贡献，提交灵感**
