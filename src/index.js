@@ -25,15 +25,26 @@ readXlsxFile(json_file_path, { schema }).then(({ rows, errors }) => {
     let l1_keys_JSON = _.map(g1, function (v, k) {
 
       let g2 = _.groupBy(v, 'c2');
-
+      var pcnt = 0;
+      
       return {
-        "value": 300,
+        "value": v.length,
         "name": k,
+        "label":{
+          "formatter": `{b}\n场景：{c}`,
+          // "formatter": `{b}\n场景：{c}\n产品：${pcnt}`,
+          // "fontSize": 15,
+          // "lineHeight": 16,
+        },
 
         "children": _.map(g2, function (vv, kk) {
           let r = {
-            "value": 200,
+            "value": vv.length,
             "name": kk,
+            "label":{
+              "fontSize": 16
+            },
+    
           }
 
           let g3 = _.groupBy(vv, 'c3');
@@ -41,11 +52,14 @@ readXlsxFile(json_file_path, { schema }).then(({ rows, errors }) => {
           if (_.findKey(g3) != 'undefined') {
             r.children =  _.map(g3, function (vvv, kkk) {
               let hyperlink = kkk.split("｜");
-              
+
               return {
                 "value": 100,
                 "name": hyperlink[0],
-                "link": hyperlink[1]
+                "link": hyperlink[1],
+                "label":{
+                  "fontSize": 16
+                },
               }
             })
           }
