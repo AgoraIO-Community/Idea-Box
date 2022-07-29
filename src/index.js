@@ -50,7 +50,7 @@ readXlsxFile(json_file_path, { schema }).then(({ rows, errors }) => {
 
               return {
                 "value": 100,
-                "name": hyperlink[0],
+                "name": `${hyperlink[0]}`,
                 "link": hyperlink[1],
                 "label":{
                   "fontSize": 16
