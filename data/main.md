@@ -108,6 +108,7 @@ about: "该 main.md 用于记录每个人 Pull Requset 的内容。请参考已�
 |泛娱乐|虚拟偶像演唱会|[AvatarX 智能虚拟人平台](https://www.faceunity.com/avatarx.html)|
 |泛娱乐|云综艺| |
 |泛娱乐|Bingo（宾果游戏）| |
+|泛娱乐|歌声合成引擎|[ACE Studio](https://ace-studio.timedomain.tech/)|
 |IoT|智能手表（Smart Watch）| |
 |IoT|智能头显（Head Mounted Display）| |
 |IoT|直播眼镜| |
