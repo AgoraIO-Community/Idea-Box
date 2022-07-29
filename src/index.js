@@ -69,6 +69,9 @@ readXlsxFile(json_file_path, { schema }).then(({ rows, errors }) => {
           "fontSize": 14,
           "lineHeight": 16,
         },
+        "tooltip ": {
+          "formatter": `{b}\n场景：${_.keys(g2).length}\n产品：${pcnt}`,
+        }
       }
     })
 
