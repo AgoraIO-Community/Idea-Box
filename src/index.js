@@ -22,21 +22,13 @@ const schema = {
 readXlsxFile(json_file_path, { schema }).then(({ rows, errors }) => {
   try {
     let g1 = _.groupBy(rows, 'c1');
+  
     let l1_keys_JSON = _.map(g1, function (v, k) {
-
+      
+      let pcnt = 0;
       let g2 = _.groupBy(v, 'c2');
-      var pcnt = 0;
       
       return {
-        "value": v.length,
-        "name": k,
-        "label":{
-          "formatter": `{b}\n场景：{c}`,
-          // "formatter": `{b}\n场景：{c}\n产品：${pcnt}`,
-          // "fontSize": 15,
-          // "lineHeight": 16,
-        },
-
         "children": _.map(g2, function (vv, kk) {
           let r = {
             "value": vv.length,
@@ -48,9 +40,12 @@ readXlsxFile(json_file_path, { schema }).then(({ rows, errors }) => {
           }
 
           let g3 = _.groupBy(vv, 'c3');
-
+          
           if (_.findKey(g3) != 'undefined') {
-            r.children =  _.map(g3, function (vvv, kkk) {
+            pcnt = pcnt + _.keys(g3).length
+            
+            r.children = _.map(g3, function (vvv, kkk) {
+
               let hyperlink = kkk.split("｜");
 
               return {
@@ -66,7 +61,14 @@ readXlsxFile(json_file_path, { schema }).then(({ rows, errors }) => {
           
           return r
         
-        })
+        }),
+        "value": v.length,
+        "name": k,
+        "label":{
+          "formatter": `{b}\n场景：${_.keys(g2).length}\n产品：${pcnt}`,
+          "fontSize": 14,
+          "lineHeight": 16,
+        },
       }
     })
 
