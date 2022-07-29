@@ -217,3 +217,4 @@ about: "该 main.md 用于记录每个人 Pull Requset 的内容。请参考已�
 |更多|元宇宙（Metaverse）|[元语聊 MetaChat](https://www.agora.io/cn/meta-chat) |
 |更多|元宇宙（Metaverse）|[互动游戏 Meta Interactive Game](https://www.agora.io/cn/meta-igame) |
 |更多|元宇宙（Metaverse）| [元直播 MetaLive](https://www.agora.io/cn/meta-live)|
+|更多|Web3.0| [Meson Network](https://meson.network/)|
